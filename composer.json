@@ -1,9 +1,9 @@
 {
-    "name": "papersky/pingyo",
+    "name": "limely/pingyo",
     "type": "library",
     "description": "",
     "keywords": ["pingyo"],
-    "homepage": "https://github.com/papersky/pingyo",
+    "homepage": "https://github.com/limely/pingyo",
     "license": "BSD",
     "authors": [
         {
